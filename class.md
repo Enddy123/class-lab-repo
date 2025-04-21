@@ -1,6 +1,6 @@
 ## Class Information
 - Name: [Endurance]  
-- Certification: [Meta Front-End Professional Certificate]  
+- Certification: [Meta Front End Professional Certificate]  
 
 ## Instructions
 Please replace the placeholders with your details:
